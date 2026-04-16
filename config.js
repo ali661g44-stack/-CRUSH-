@@ -21,7 +21,7 @@
     "BOTCREATOR": "Zeeshan Altaf",
     "CREATORLINK": "https://www.facebook.com/profile.php?id=zeeshanofficial01",
     "CREATORID": "100009593303125",
-    "BOTNAME": "𝐋𝐄𝐀𝐑𝐍 𝐅𝐎𝐑 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑𝐒",
+    "BOTNAME": "𝐂𝐑𝐔𝐒𝐇ゝ🩷",
     "PREFIX": ".",
     "ADMINBOT": [
         "61561976106165",
